@@ -1,2 +1,2 @@
-FROM ademcaliskan/kali-linux-docker-pi
+FROM ubuntu:19.04
 CMD ["/bin/bash"]
