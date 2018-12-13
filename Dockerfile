@@ -1,2 +1,2 @@
 FROM kalilinux/kali-linux-docker
-ENTRYPOINT ["bash"]
+ENTRYPOINT ["/bin/bash", "-c", "top"]
