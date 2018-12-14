@@ -1,2 +1,2 @@
-FROM arm64v8/ubuntu:19.04
+FROM arm64v8/ubuntu:18.10
 CMD ["/bin/bash", "-c", "top"]
